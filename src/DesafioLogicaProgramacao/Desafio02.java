@@ -2,6 +2,8 @@ package DesafioLogicaProgramacao;
 
 import java.util.Scanner;
 
+//2 - Faça um algoritmo para receber um número qualquer e
+// imprimir na tela se o número é par ou ímpar, positivo ou negativo.
 public class Desafio02 {
     public static void main(String[] args) {
 
